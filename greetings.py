@@ -1,7 +1,7 @@
 username = 'Имя пользователя'
 title = 'Заголовок заметки'
 content = 'Описание заметки'
-status = True
+status = 'Статус'
 day_start = 20
 month_start = 1
 year_start = 2025
