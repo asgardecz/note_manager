@@ -1,0 +1,18 @@
+note = []
+name = input('Введите имя - ')
+note.append(name)
+status = input('Введите статус - ')
+note.append(status)
+count_date = input('Введите дату создания - ')
+note.append(count_date)
+issue_date = input('Введите дату изменения - ')
+note.append(issue_date)
+soderzhanie = input("Введите содержание заметки - ")
+note.append(soderzhanie)
+note_zag = []
+zagolovok1 = input("Введите первый заголовок - ")
+note_zag.append(zagolovok1)
+zagolovok2 = input('Введите второй заголовок - ')
+note_zag.append(zagolovok2)
+note.append(note_zag)
+print(note)
