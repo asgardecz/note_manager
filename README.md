@@ -35,3 +35,9 @@ final.py   -   Задание 5: Использование словаря
 data_changer_from_dataUtil.py
 и
 date_changer_fromDateTime.py - Есть ни что иное как собственные попытки в задание 2, но с использованием библиотек datetime и dataUtil
+
+
+add_titles_loop.py - запись сколь угодно много заголовков
+
+
+update_status.py - проверка статуса и изменение, если все верно
